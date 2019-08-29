@@ -17,7 +17,7 @@
 
 # dollarAmount_including_cents = 8.69
 
-dollarAmount_including_cents = 8.69
+dollarAmount_including_cents = 8.99
 # ----------------------------------
 number_of_quarters = (dollarAmount_including_cents / 0.25)
 # remove if there is a fraction portion of the result using int
